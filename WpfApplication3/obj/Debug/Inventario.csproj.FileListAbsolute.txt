@@ -1,0 +1,16 @@
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\WpfApplication3.Vistas.Empleados.FormListar.resources
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\WpfApplication3.Vistas.Empleados.FormRegistrar.resources
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\milo\Documents\Visual Studio 2015\Projects\intento_crud_1\WpfApplication3\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
